@@ -10,3 +10,14 @@
 .error{
     color:tomato
 }
+
+.fab{
+    font-size: 30px;
+    padding-left: 10px;
+    color: rgb(128, 127, 127);
+}
+
+.fab:hover{
+    cursor: pointer;
+    color: #fff;
+}
