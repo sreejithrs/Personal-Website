@@ -21,3 +21,7 @@
     cursor: pointer;
     color: #fff;
 }
+
+.signup_error_class{
+    color: tomato;
+}
